@@ -1,0 +1,6 @@
+@SistemadeGerenciamentodeProdutos_HostAddress = http://localhost:5215
+
+GET {{SistemadeGerenciamentodeProdutos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
